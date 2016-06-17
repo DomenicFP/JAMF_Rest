@@ -6,14 +6,14 @@
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <logo/>
-        <menu/>
+        <menu display_value="JAMF Integration">9f6e13310f0462003ed8cbdce1050e0e</menu>
         <name>JAMF Integration</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_18629_jamf_integ</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>Allows the bi-directional rest to communicate to other sources</short_description>
         <source>x_18629_jamf_integ</source>
         <store_correlation_id/>
         <store_url/>
@@ -22,12 +22,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-14 15:32:32</sys_created_on>
         <sys_id>58daa401db00220002b0fabdbf9619b7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-06-14 15:32:32</sys_updated_on>
+        <sys_updated_on>2016-06-17 12:37:13</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role/>
+        <user_role display_value="u_jamf_integration" name="u_jamf_integration">d76e13310f0462003ed8cbdce1050e0f</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>

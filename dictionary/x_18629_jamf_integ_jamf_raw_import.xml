@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="JAMF Raw Import" max_length="40" name="x_18629_jamf_integ_jamf_raw_import" type="collection"/>
+</database>
