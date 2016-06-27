@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="cmdb_ci" label="JAMF Raw Import" max_length="40" name="x_18629_jamf_integ_jamf_raw_import" type="collection"/>
+    <element extends="cmdb_ci" label="JAMF Raw Import" max_length="40" name="x_18629_jamf_integ_jamf_raw_import" type="collection">
+        <element label="FileVault key" max_length="65536" name="filevault_key" type="glide_encrypted"/>
+    </element>
 </database>
