@@ -17,11 +17,11 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Configuration Item" name="cmdb_ci">a62604810f0022003ed8cbdce1050e43</super_class>
+        <super_class display_value="Configuration Item" name="cmdb_ci">b09617a2db112200021e7e7dbf961944</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-17 12:39:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>84af133d0f0462003ed8cbdce1050e43</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>JAMF Raw Import</sys_name>
